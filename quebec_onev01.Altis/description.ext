@@ -1,7 +1,7 @@
 //------------------------- On Load
 
-author = "Dakota & JB, based on work by Rarek & Quiksilver";
-onLoadName = "7th Cav Invade & Annex 3.2.12";
+author = "Quebec One forked from Dakota & JB, based on work by Rarek & Quiksilver";
+onLoadName = "Quebec One's Invade And Annex";
 onLoadMission = "Welcome to Quebec One Invade and Annex! Join us on Teamspeak QuebecOne";
 loadScreen = "media\images\loading.jpg";
 overviewPicture = "media\images\loading.jpg";

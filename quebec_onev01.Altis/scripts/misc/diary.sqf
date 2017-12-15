@@ -129,14 +129,18 @@ player createDiaryRecord ["server", ["Unit callsigns",
 </font>
 <br/>Additional armored vehicles acquire callsigns by type.  Main battle tanks are Sabres, etc.
 <font face='EtelkaMonospacePro' size='10'>
+<br/><font size='12'>Additional Armor</font>
+<br/>
+<br/>Grimes                  Death Machine
+<br/>
 </font>
 "
 ]];
 
 player createDiaryRecord ["server", ["TeamSpeak information",
 "
-<br/> Address: ts3.7cav.us
-<br/> Password: 7thCavalry
+<br/> Address: EnterServerHere
+<br/> Password: EnterPasswordHere
 <br/> NOTE: Password is case sensitive
 <br/>
 <br/> Visitors and guests welcome!
@@ -145,12 +149,11 @@ player createDiaryRecord ["server", ["TeamSpeak information",
 
 player createDiaryRecord ["server", ["Rules of conduct",
 "
-<br/>1. No fratricide.
-<br/>2. No destruction of friendly equipment.
+<br/>1. Do kill each other; unless it's Grimes.
+<br/>2. No blow up friendly equipment, unless Grimes is in it.
 <br/>3. All pilots, UAV and artillery operators must be on TeamSpeak.
 <br/>4. All aircraft / artillery support must be on call.
-<br/>5. Weapons must be kept safed on base.
-<br/>6. No foul language, racism, or insults of any type will be tolerated.
+<br/>5. Weapons must be kept safed on base, unless you're shooting Grimes.
 <br/>
 <br/>If you see a player in violation of any of the above, contact a moderator or administrator (TeamSpeak).
 "
@@ -174,9 +177,13 @@ player createDiaryRecord ["credits", ["Invade & Annex",
 - BACONMOP - Ahoy World (ahoyworld.co.uk)<br/>
 - chucky - All FPS (allfps.com.au)<br/><br/>
 
-<br/>Modified for the 7th Cavalry By:<br/><br/>
+<br/>Modified for the 7th Cavalry Originally By:<br/><br/>
 - <font size='16'>Treck</font> - 7th Cavalry (7thcavalry.us)		 <br/><br/>
 - <font size='16'>Dakota</font> - 7th Cavalry (7thcavalry.us)		 <br/><br/>
+
+<br/>Forked from the 7th Cavalry:<br/><br/>
+- <font size='16'>SirBaconPoop</font>		 <br/><br/>
+- <font size='16'>Da Spicy Boi</font>		 <br/><br/>
 
 <br/>Other:<br/><br/>
 EOS<br/>
